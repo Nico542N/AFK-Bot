@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "Slobot00",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "PirlaPlanet.aternos.me",
     "port": 17738,
-    "version": "26.1.6",
+    "version": "1.21.1",
     "try-creative": true
   },
   "position": {
